@@ -5,7 +5,7 @@ Residue coloring for peptide sequences, to help spot patterns in peptides that d
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 
-**Launch the interactive app: [PepColors on Streamlit](PASTE_APP_URL_HERE)**
+**Launch the interactive app: [PepColors on Streamlit]((https://pepcolors.streamlit.app/))**
 
 **Authors:** Oleg V. Krokhin, Alexandre Préfontaine  
 **Affiliation:** Manitoba Centre for Proteomics and Systems Biology, University of Manitoba  
